@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-r from-yellow-500 to-orange-600 text-white">
+      <section className="relative bg-linear-to-r from-yellow-500 to-orange-600 text-white">
         <div className="container mx-auto px-6 py-24">
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
